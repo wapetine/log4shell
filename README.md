@@ -26,7 +26,7 @@ Instal·lar tcpserver
 sudo apt-get install ucspi-tcp
 ```
 
-## Funcionament
+## Execució
 
 ```bash
 git clone https://github.com/wapetine/log4shell.git
