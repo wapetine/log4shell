@@ -29,5 +29,7 @@ sudo apt-get install ucspi-tcp
 ## Funcionament
 
 ```bash
-
+git clone https://github.com/wapetine/log4shell.git
+cd log4shell.git
+./log4shell
 ```
