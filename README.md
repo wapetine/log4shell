@@ -28,6 +28,8 @@ sudo apt-get install ucspi-tcp
 
 ## Execució
 
+S'ha d'executar sobre les IP o dominis que es desitgi i sobre el port que aquests tinguin allotjat el servei.
+
 ```bash
 git clone https://github.com/wapetine/log4shell.git
 cd log4shell.git
