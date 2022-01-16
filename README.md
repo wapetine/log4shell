@@ -31,5 +31,6 @@ sudo apt-get install ucspi-tcp
 ```bash
 git clone https://github.com/wapetine/log4shell.git
 cd log4shell.git
-./log4shell
+chmod +x log4jscan.sh
+./log4jscan.sh 
 ```
