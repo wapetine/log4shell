@@ -1,6 +1,6 @@
 # Scanner de log4shell
 
-El repositori conté un script en llenguatge bash que permet executar un escaneig de totes les aplicacions incloses a una xarxa IP concreta i retorna aquelles que son vulnerables a log4shell. 
+El repositori conté un script en llenguatge bash que permet executar un escaneig de totes les aplicacions incloses en una xarxa IP concreta i retorna aquelles que son vulnerables a log4shell. 
 
 ## Dependències
 
